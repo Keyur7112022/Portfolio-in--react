@@ -22,7 +22,7 @@
 
   --container-width-lg: 75%;
   --container-width-md: 86%;
-  --container-width-ms: 90%;
+  --container-width-sm: 90%;
 }
 
 html {
@@ -34,18 +34,19 @@ html {
 }
 
 body {
+  margin-top: -5rem;
   font-family: "Poppins", sans-serif;
   background: var(--color-bg);
   color: var(--color-white);
-  line-height: 1.7;
-  background-image: url(https://wallpaperaccess.com/full/1489187.jpg);
+  line-height: 1.5;
+  background-image: url(https://www.designbolts.com/wp-content/uploads/2012/11/Free-Professional-Dark-Carbon-Patterns.jpg);
 }
 
 /* ==========================General Style====================================== */
 
 .container {
-  width: var(--constainer-width-lg);
-  margin: 0;
+  width: var(--container-width-lg);
+  margin: 0 auto;
 }
 
 h1,
@@ -62,7 +63,7 @@ h1 {
 
 section {
   margin-top: 8rem;
-  height: 100vh;
+  height: 90vh;
 }
 section > h2,
 section > h5 {
@@ -72,7 +73,7 @@ section > h5 {
 
 section > h2 {
   color: var(--color-primary);
-  margin-bottom: 3rem;
+  margin-bottom: 5rem;
 }
 
 .text-light {
