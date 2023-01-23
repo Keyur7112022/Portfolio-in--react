@@ -22,7 +22,7 @@ const Experince = () =>{
                             <BsPatchCheckFill className='experience_details-icon'/>
                             <div>
                             <h4>CSS</h4>
-                            <small className='text-light'>Intermediate</small>
+                            <small className='text-light'>Experienced</small>
                             </div>
                         </article>
                         <article className='experience_details'>
@@ -42,14 +42,7 @@ const Experince = () =>{
                         <article className='experience_details'>
                             <BsPatchCheckFill className='experience_details-icon'/>
                             <div>
-                            <h4>React</h4>
-                            <small className='text-light'>Intermediate</small>
-                            </div>
-                        </article>
-                        <article className='experience_details'>
-                            <BsPatchCheckFill className='experience_details-icon'/>
-                            <div>
-                            <h4>React</h4>
+                            <h4>Vue.js</h4>
                             <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
@@ -89,15 +82,8 @@ const Experince = () =>{
                         <article className='experience_details'>
                             <BsPatchCheckFill className='experience_details-icon'/>
                             <div>
-                            <h4>Python</h4>
-                            <small className='text-light'>Intermediate</small>
-                            </div>
-                        </article>
-                        <article className='experience_details'>
-                            <BsPatchCheckFill className='experience_details-icon' />
-                            <div>
-                            <h4>Python</h4>
-                            <small className='text-light'>Intermediate</small>
+                            <h4>Java Script</h4>
+                            <small className='text-light'>Experienced</small>
                             </div>
                         </article>
                 </div>
